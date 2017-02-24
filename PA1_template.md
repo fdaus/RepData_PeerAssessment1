@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # Reproducible Research: Peer Assessment 1
 Firdaus Afifi  
 24th February 2017  
